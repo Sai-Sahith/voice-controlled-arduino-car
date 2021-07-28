@@ -1,6 +1,5 @@
 # voice-controlled-arduino-car
 
-# Voice-Control-Robo-Car
 
 - ## Project Aims
 
@@ -84,35 +83,34 @@ The primary stage of this project is speech to text conversion, which is achieve
   
 Arduino Uno is used because we can mount the motor driver shield in it. It is also cheap, easy to use and acquires less  space as we have to place everything on the chassis.
 
-<img src="Images/Arduino UNO.jpg" width="400" height="200">
+
 
   2. Motor Driver L298N
   
 The L298 is an integrated monolithic circuit in a 15- lead Multi watt and PowerSO20 packages. It is a high voltage, high current dual full-bridge driver designed to accept standard TTL logic levels and drive inductive loads such as relays, solenoids, DC and stepping motors.
 
-<img src="Images/motordriver.jpg" width="400" height="200">
+
 
   3. HC-06 Bluetooth Module
   
 A widely available Bluetooth module that has capability to enable your project with Bluetooth. It has got one LED, which shows its state. If it is blinking that means it is not connected. If it is staying in glowing condition that means it is connected. 
 
-<img src="Images/bluetoothmodule.jpg" width="400" height="200">
 
   4. 4-WD Car Chassis
   
 It contains 2 platforms made up of acrylic. It contains 4 dc motors with speed encoders. It is easy to assemble and provide much space to place Arduino, Bluetooth module, and batteries pack.
 
-<img src="Images/carchasis.jpg" width="400" height="200">
+
 
   5. Battery
   
 Each motor used up to nearly 200mA current. Li-ion cells in parallel. The battery pack supply 12.1 volts.  Li-ion cell is a type of rechargeable battery. So we can use these cells again and again.
 
-<img src="Images/battery.jpg" width="400" height="200">
+
 
   6. Jumpire Wires
 
-  <img src="Images/wires.jpg" width="400" height="200">
+
 
 By the way these are the components I have used, you can use other hardware also which provides similar functionality.
   
