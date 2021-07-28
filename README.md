@@ -67,7 +67,7 @@ For example, when the speaker gives an input like the following, the output of r
 3. Right – turns right
 4. Left – turns left
 
-![working video](Images/test.gif)
+![working video](test.gif)
 
 - ## Requirements and Details
     
