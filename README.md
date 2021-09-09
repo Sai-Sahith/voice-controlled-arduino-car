@@ -108,7 +108,7 @@ Each motor used up to nearly 200mA current. Li-ion cells in parallel. The batter
 
 
 
-  6. Jumpire Wires
+  6. Jumper Wires
 
 
 
@@ -125,7 +125,7 @@ It is useful in places which are inaccessible to human beings, like tunnel works
     
 
 
-## Thank you :D
+## Thank you :
 
 
 
